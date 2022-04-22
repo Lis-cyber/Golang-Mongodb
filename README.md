@@ -9,12 +9,9 @@ This project used the mgo library to work with NO-SQL mongoDB. You can read [doc
 
 ## Getting Started
 
-<hr/>
-
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. 
 
 ## Prerequisites
-<hr/>
 
 What things you need to install the software and how to install them
 
@@ -26,7 +23,6 @@ What things you need to install the software and how to install them
 ```
 
 ## Installing
-<hr/>
 
 ```
  go get github.com/gorilla/mux 
